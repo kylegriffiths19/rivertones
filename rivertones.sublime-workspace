@@ -1,0 +1,1090 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"rem",
+				"removeClass"
+			],
+			[
+				"button",
+				"buttonHighlight"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"input",
+				"input,textarea"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"red",
+				"ready"
+			],
+			[
+				"centr",
+				"center"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"inli",
+				"inline"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"with",
+				"width"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"cont",
+				"contact"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"hgi",
+				"highlightLink"
+			],
+			[
+				"high",
+				"highlightLink"
+			],
+			[
+				"reveal",
+				"revealEvents"
+			],
+			[
+				"col",
+				"col"
+			],
+			[
+				"animate",
+				"animateScroll"
+			],
+			[
+				"hihg",
+				"highlightLink"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"under",
+				"underline"
+			],
+			[
+				"join-us",
+				"join-us-article"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"nth-",
+				"nth-of-type"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"hid",
+				"hidden"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"pdding",
+				"padding-left"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"ill",
+				"illustration"
+			],
+			[
+				"contai",
+				"containsBlanks"
+			],
+			[
+				"va",
+				"var"
+			],
+			[
+				"vali",
+				"validEmail"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"un",
+				"underline"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"url",
+				"url()"
+			],
+			[
+				"background",
+				"background-repeat"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"local",
+				"local"
+			],
+			[
+				"fluid",
+				"fluidize"
+			],
+			[
+				"boto",
+				"bottom"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"bord",
+				"border-style"
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"base",
+				"base-color"
+			],
+			[
+				"b",
+				"black"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"pading",
+				"padding"
+			],
+			[
+				"footer",
+				"footer-wrap"
+			],
+			[
+				"join",
+				"join-us-home"
+			],
+			[
+				"option",
+				"option1"
+			],
+			[
+				"mag",
+				"margin-bottom"
+			],
+			[
+				"autosize",
+				"autosizejs"
+			],
+			[
+				"la",
+				"label"
+			],
+			[
+				"s",
+				"Sans-serif"
+			],
+			[
+				"h",
+				"Helvetica"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"border-ra",
+				"border-radius"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"border-l",
+				"border-left-style"
+			],
+			[
+				"example",
+				"example1"
+			],
+			[
+				"exam",
+				"example1"
+			],
+			[
+				"exm",
+				"example1"
+			],
+			[
+				"exa",
+				"example1"
+			],
+			[
+				"mysql",
+				"mysql_error"
+			],
+			[
+				"course_in",
+				"course_insert_result"
+			],
+			[
+				"unit",
+				"unit_insert_result"
+			],
+			[
+				"course",
+				"courseID"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"uni",
+				"units_reset_query"
+			],
+			[
+				"pe",
+				"permission"
+			],
+			[
+				"mysqlfe",
+				"mysql_fetch_array"
+			],
+			[
+				"permissio",
+				"permission_query"
+			],
+			[
+				"per",
+				"permission"
+			],
+			[
+				"perm",
+				"permission"
+			],
+			[
+				"mysqlf",
+				"mysql_fetch_array"
+			],
+			[
+				"row",
+				"rows"
+			],
+			[
+				"permissi",
+				"permission"
+			],
+			[
+				"permission",
+				"permission_level"
+			],
+			[
+				"cour",
+				"course_count_result"
+			],
+			[
+				"student",
+				"student_check_rows"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"stud",
+				"student_check_rows"
+			],
+			[
+				"st",
+				"student_course_check_result"
+			],
+			[
+				"cou",
+				"courseID"
+			],
+			[
+				"mysql_f",
+				"mysql_fetch_assoc"
+			],
+			[
+				"mysql_fe",
+				"mysql_fetch_array"
+			],
+			[
+				"permis",
+				"permission"
+			],
+			[
+				"mysql_fetch",
+				"mysql_fetch_assoc"
+			],
+			[
+				"user",
+				"userID"
+			],
+			[
+				"change",
+				"change_password"
+			],
+			[
+				"db",
+				"db_connection"
+			],
+			[
+				"useru",
+				"userid_result"
+			],
+			[
+				"hash",
+				"hashPassword"
+			],
+			[
+				"pso",
+				"position"
+			],
+			[
+				"echo",
+				"echo	echo \"…\""
+			],
+			[
+				"lyrc",
+				"lyric1"
+			],
+			[
+				"ly",
+				"lyric1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 12258,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "about.html",
+			"settings":
+			{
+				"buffer_size": 8301,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: Enable Package"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			],
+			[
+				"pakage",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet ",
+				"Emmet: Expand Abbreviation"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/tha_griffmeister/Dropbox/web/rivertones/css/style.css",
+		"/Users/tha_griffmeister/Dropbox/web/rivertones/css/ie.scss",
+		"/Users/tha_griffmeister/Dropbox/web/rivertones/css/grid2.scss",
+		"/Users/tha_griffmeister/Dropbox/web/rivertones-prod/css/style.css",
+		"/Users/tha_griffmeister/Dropbox/web/rivertones/css/style.scss",
+		"/Users/tha_griffmeister/Dropbox/web/rivertones/index.html",
+		"/Users/tha_griffmeister/Dropbox/web/rivertones/contact-process.php",
+		"/Users/tha_griffmeister/Dropbox/web/rivertones/join-us.html",
+		"/Users/tha_griffmeister/Dropbox/web/rivertones/media.html",
+		"/Users/tha_griffmeister/Dropbox/web/rivertones/contact.html",
+		"/Users/tha_griffmeister/Dropbox/web/rivertones/about.html",
+		"/Users/tha_griffmeister/Dropbox/web/rivertones/repertoire.html",
+		"/Users/tha_griffmeister/Dropbox/web/rivertones/members.html",
+		"/Users/tha_griffmeister/Dropbox/web/rivertones/booking.html",
+		"/Users/tha_griffmeister/Dropbox/web/rivertones/inc/header.php",
+		"/Users/tha_griffmeister/Dropbox/web/rivertones/inc/footer.php",
+		"/Users/tha_griffmeister/Dropbox/web/rivertones/js/main.js",
+		"/Users/tha_griffmeister/Dropbox/web/rivertones/index.php",
+		"/Users/tha_griffmeister/Downloads/shirts4mike/contact.php",
+		"/Users/tha_griffmeister/Dropbox/web/rivertones/css/flexslider.scss",
+		"/Users/tha_griffmeister/Dropbox/web/rivertones/js/jquery.formalize.js",
+		"/Users/tha_griffmeister/Dropbox/web/rivertones/css/grid.scss",
+		"/Users/tha_griffmeister/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/tha_griffmeister/Dropbox/web/rivertones/contact.php",
+		"/Users/tha_griffmeister/Dropbox/web/ideas-bureau/DEV-INIT/wp-config.php",
+		"/Users/tha_griffmeister/Dropbox/web/rivertones/css/media.scss",
+		"/Users/tha_griffmeister/Dropbox/web/rivertones/rivertones.sublime-workspace",
+		"/Users/tha_griffmeister/Dropbox/web/rivertones/members.php",
+		"/Users/tha_griffmeister/Dropbox/web/rivertones/about.php",
+		"/Users/tha_griffmeister/Dropbox/web/rivertones/repertoire.php",
+		"/Users/tha_griffmeister/Dropbox/web/rivertones/booking.php",
+		"/Users/tha_griffmeister/Dropbox/web/rivertones/media.php",
+		"/Users/tha_griffmeister/Downloads/smellslikebakin/contact.html",
+		"/Users/tha_griffmeister/Dropbox/web/rivertones/css/fonts/symbolset/ss-social-circle/ss-social.js",
+		"/Users/tha_griffmeister/Dropbox/web/rivertones/css/fonts/symbolset/ss-social-circle/ss-social-circle.css",
+		"/Users/tha_griffmeister/Dropbox/web/rivertones/css/ss-social-circle.scss",
+		"/Users/tha_griffmeister/Dropbox/web/rivertones/repetoire.html",
+		"/Users/tha_griffmeister/Dropbox/web/rivertones/js/jquery.flexslider.js",
+		"/Users/tha_griffmeister/Dropbox/web/rivertones/css/flexslider.css",
+		"/Users/tha_griffmeister/Documents/web/ideas-bureau/RAPPORT/wp-content/themes/rapport-v1/front-page.php",
+		"/Users/tha_griffmeister/Documents/web/ideas-bureau/AIDINFO/wp-content/themes/aidinfo/nav-main.php",
+		"/Users/tha_griffmeister/Documents/web/ideas-bureau/AIDINFO/wp-content/themes/aidinfo/page.php",
+		"/Users/tha_griffmeister/Documents/web/ideas-bureau/TRIO/wp-content/themes/trio/css/style.css",
+		"/Users/tha_griffmeister/Documents/web/ideas-bureau/RAPPORT/wp-content/themes/rapport-v1/twitter/tweets.txt",
+		"/Users/tha_griffmeister/Documents/web/ideas-bureau/RAPPORT/wp-content/themes/rapport-v1/twitter/README.md",
+		"/Users/tha_griffmeister/Documents/web/ideas-bureau/TRIO/wp-content/themes/trio/twitter/twitteroauth/twitteroauth/twitteroauth.php",
+		"/Users/tha_griffmeister/Documents/web/ideas-bureau/RAPPORT/wp-content/themes/rapport-v1/twitter/twitteroauth/redirect.php",
+		"/Users/tha_griffmeister/Documents/web/ideas-bureau/RAPPORT/wp-content/themes/rapport-v1/twitter/twitteroauth/index.php",
+		"/Users/tha_griffmeister/Documents/web/ideas-bureau/RAPPORT/wp-content/themes/rapport-v1/twitter/twitteroauth/clearsessions.php",
+		"/Users/tha_griffmeister/Documents/web/ideas-bureau/RAPPORT/wp-content/themes/rapport-v1/twitter/twitteroauth/config-sample.php",
+		"/Users/tha_griffmeister/Documents/web/ideas-bureau/RAPPORT/wp-content/themes/rapport-v1/twitter/twitteroauth/callback.php",
+		"/Users/tha_griffmeister/Documents/web/ideas-bureau/RAPPORT/wp-content/themes/rapport-v1/twitter/twitteroauth/twitteroauth/twitteroauth.php",
+		"/Users/tha_griffmeister/Documents/web/ideas-bureau/RAPPORT/wp-content/themes/rapport-v1/README.md",
+		"/Users/tha_griffmeister/Documents/web/ideas-bureau/TRIO/wp-content/themes/trio/twitter/tweets.txt",
+		"/Users/tha_griffmeister/Documents/web/ideas-bureau/TRIO/wp-content/themes/trio/twitter/twitteroauth/connect.php",
+		"/Users/tha_griffmeister/Documents/web/ideas-bureau/TRIO/wp-content/themes/trio/twitter/twitteroauth/index.php",
+		"/Users/tha_griffmeister/Documents/web/ideas-bureau/TRIO/wp-content/themes/trio/twitter/twitteroauth/redirect.php",
+		"/Users/tha_griffmeister/Documents/web/ideas-bureau/TRIO/wp-content/themes/trio/twitter/tweets.php",
+		"/Users/tha_griffmeister/Documents/web/ideas-bureau/TRIO/wp-content/themes/trio/front-page.php",
+		"/Applications/MAMP/htdocs/rivertones/css/style.css",
+		"/Applications/MAMP/htdocs/rivertones/css/poo.html",
+		"/Users/tha_griffmeister/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/tha_griffmeister/Library/Application Support/Sublime Text 2/Packages/User/Emmet.sublime-settings",
+		"/Applications/MAMP/htdocs/responsive/css/ie.css",
+		"/Applications/MAMP/htdocs/river_tones/css/normalize.css",
+		"/Applications/MAMP/htdocs/relative/relative.css",
+		"/Applications/MAMP/htdocs/test.php",
+		"/Applications/MAMP/htdocs/river_tones/css/style.css",
+		"/Applications/MAMP/htdocs/river_tones/index.html",
+		"/Applications/MAMP/htdocs/php tests/shortcut.php",
+		"/Applications/MAMP/htdocs/php tests/whileloops.php",
+		"/Applications/MAMP/htdocs/php tests/Booleans.php",
+		"/Applications/MAMP/htdocs/php tests/numbers.php",
+		"/Applications/MAMP/htdocs/php tests/firstpage.php",
+		"/Applications/MAMP/htdocs/php tests/encoding.php",
+		"/Applications/MAMP/htdocs/strings.php",
+		"/Volumes/COLLEGE/Computing/Year two/Advanced Web/dracula/index.php",
+		"/private/var/folders/vt/y1d835t13lb3s8c914htg5y40000gn/T/fz3temp-1/index.php",
+		"/Volumes/COLLEGE/Computing/Year two/Advanced Web/dracula/gallery.php",
+		"/Users/tha_griffmeister/Documents/reset_courses.php",
+		"/Users/tha_griffmeister/Documents/update_complete.php",
+		"/Users/tha_griffmeister/Documents/select_user.php",
+		"/Applications/MAMP/htdocs/15_06_widget_corp-final/edit_subject.php",
+		"/Applications/MAMP/htdocs/15_06_widget_corp-final/new_user.php",
+		"/Applications/MAMP/htdocs/dracula/inc/header.php",
+		"/Applications/MAMP/htdocs/dracula/css/normalize.css",
+		"/Applications/MAMP/htdocs/dracula/forum.php",
+		"/Applications/MAMP/htdocs/dracula/sitemap.php",
+		"/Applications/MAMP/htdocs/dracula/tours.php",
+		"/Applications/MAMP/htdocs/dracula/history.php",
+		"/Applications/MAMP/htdocs/dracula/inc/footer.php",
+		"/Applications/MAMP/htdocs/dracula/index.php",
+		"/Applications/MAMP/htdocs/dracula/product_toys2.php",
+		"/Applications/MAMP/htdocs/dracula/product_toys.php",
+		"/Applications/MAMP/htdocs/dracula/product_misc2.php",
+		"/Applications/MAMP/htdocs/dracula/product_misc.php",
+		"/Applications/MAMP/htdocs/dracula/memorabilia.php",
+		"/Applications/MAMP/htdocs/dracula/product_book.php",
+		"/Applications/MAMP/htdocs/dracula/product-poster.php",
+		"/Applications/MAMP/htdocs/dracula/gallery.php",
+		"/Users/tha_griffmeister/Library/Caches/Cleanup At Startup/Transmit/3AFA951A-EA7D-44E0-ACAF-C130460620A5/add_user.php",
+		"/Volumes/COLLEGE/Computing/Year two/Information systems/Assignment2/example1.xml",
+		"/Volumes/COLLEGE/Computing/Year two/Information systems/Assignment2/accommodation.xsd",
+		"/Applications/MAMP/htdocs/gradetracker/new_user.php",
+		"/Applications/MAMP/htdocs/gradetracker/admin.php",
+		"/Applications/MAMP/htdocs/gradetracker/includes/form_functions.php",
+		"/Volumes/COLLEGE/Computing/Year two/Professional Project/gradetracker/add_user.php",
+		"/Volumes/COLLEGE/Computing/Year two/Professional Project/gradetracker/create_user.php",
+		"/Volumes/COLLEGE/Computing/Year two/Professional Project/gradetracker/admin.php",
+		"/Volumes/COLLEGE/Computing/Year two/Professional Project/gradetracker/includes/form_functions.php",
+		"/Volumes/COLLEGE/Computing/Year two/Professional Project/gradetracker/new_user.php",
+		"/Applications/MAMP/htdocs/gradetracker/add_user.php",
+		"/Applications/MAMP/htdocs/15_06_widget_corp-final/login.php",
+		"/Volumes/COLLEGE/Computing/Year two/Professional Project/gradetracker/includes/functions.php",
+		"/Volumes/COLLEGE/Computing/Year two/Professional Project/gradetracker/includes/connection.php",
+		"/Applications/MAMP/htdocs/widget_corp/includes/functions.php",
+		"/Applications/MAMP/htdocs/widget_corp/includes/connection.php",
+		"/Applications/MAMP/htdocs/widget_corp/includes/constants.php",
+		"/Applications/MAMP/htdocs/widget_corp/create_subject.php",
+		"/Users/tha_griffmeister/Dropbox/College - Server6/Web Site/PHP/config.php",
+		"/Volumes/COLLEGE/Computing/Year two/Information systems/Assignment2/bum.xml",
+		"/Users/tha_griffmeister/Downloads/accommodation_with_elements (2).dtd",
+		"/Applications/MAMP/htdocs/dracula/inc/navigation.php",
+		"/Applications/MAMP/htdocs/FLOW-FILMS/css/about.css",
+		"/Applications/MAMP/htdocs/dracula/memorabilia.html",
+		"/Applications/MAMP/htdocs/mikes/shirts.php",
+		"/Applications/MAMP/htdocs/FLOW-FILMS/css/style.css",
+		"/Applications/MAMP/htdocs/FLOW-FILMS/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<project>,,*.html",
+			"<project>,-*.scss",
+			"<project>",
+			"style.scss",
+			"<file>",
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"highlight",
+			"ill",
+			"illust",
+			"container",
+			"btn",
+			"container",
+			"logo",
+			"content",
+			"dsdsd",
+			"footer",
+			"about",
+			"display: none;",
+			"footer",
+			";\n",
+			"content",
+			"alt",
+			"nav",
+			"contact",
+			"contact-form",
+			"first",
+			"content",
+			"flexsliderback-to-top",
+			"flexslider",
+			"flex",
+			"footer",
+			"address",
+			"back-to-top",
+			"back-to-top-area",
+			"back-to-top",
+			"back",
+			"header",
+			"back-to-top",
+			"bookings",
+			"bookings.html",
+			"footer-wrap",
+			"content",
+			"slider",
+			"flex",
+			".contact-us",
+			".contact-de",
+			".flexslider",
+			"site-nav",
+			"sub-nav",
+			".sub-nav",
+			"descr.sub-nav",
+			"descr",
+			"site-nav",
+			"wedding",
+			"site-nav",
+			"ill",
+			"sub-nav",
+			".php",
+			"heading sub",
+			"sub",
+			"address",
+			"form",
+			"address",
+			"span",
+			"highlighted",
+			".html",
+			"social",
+			"gold",
+			"back-to-top",
+			"footer",
+			"browse",
+			"%;\n",
+			"img",
+			"audio",
+			"nav",
+			"gold",
+			"facebook",
+			"btn",
+			"box-std",
+			"tweet",
+			"column-b",
+			"column b",
+			".tweet-box",
+			".tweet-meta",
+			"message-box",
+			"$twitter_user_id",
+			"  }",
+			";\n",
+			"50px",
+			";\n",
+			"   word-wrap: normal;",
+			"  position: relative;",
+			";\n",
+			"class",
+			"></",
+			" \"</",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 12258,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								692,
+								737
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "about.html",
+					"settings":
+					{
+						"buffer_size": 8301,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								732,
+								732
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"shirt.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/tha_griffmeister/Dropbox/web/ideas-bureau/GNB/wp-content/themes/gnb-v1/gnb.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 175.0,
+	"status_bar_visible": true
+}

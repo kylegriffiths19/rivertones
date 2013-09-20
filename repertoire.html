@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <title>The Rivertones Harmony chorus</title>
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/grid2.css">
+        <link rel="stylesheet" href="css/style.css">
+        
+        
+        <!--[if lt IE 9]>
+            <link rel="stylesheet" type="text/css" href="css/ie.css" />
+            <script src="js/html5shiv.js"></script>        
+        <![endif]-->
+            
+        
+        <meta name="viewport" content="width=device-width">  
+
+      
+            
+    </head>
+    
+    <body id="repertoire">
+    
+        <div class="container row">
+
+           
+                <header class="site-header row">
+                    <a href="index.html"><img src="img/logo.png" alt="The Rivertones Logo" class="logo col span_4 clr"></a>
+                    <nav class="site-nav col span_8 clr">
+                        <ul>
+                            <li><a href="index.html">Home</a></li>
+                            <li><a href="about.html">About</a></li>
+                            <li><a href="media.html">Media</a></li>
+                            <li><a href="join-us.html">Join us</a></li>
+                            <li><a href="booking.html">Book us</a></li>
+                            <li><a href="contact.html">Contact</a></li>
+                        </ul>
+                    </nav>
+                </header>
+
+                         
+
+                    <div class="content-wrap row gutters">
+
+                        <div class="page-header row">
+                            <h1 class="heading">Our Repertoire</h1>
+                        </div>
+                        <div class="row sub-nav">
+                            <ul>
+                               <li><a href="members.html">Who's who</a></li>
+                               <li><a href="about.html">Our Singing style</a></li>
+                               <li><a href="repertoire.html">Our Repertoire</a></li>  
+                            </ul>
+                        </div>
+
+                        <div class="content">
+                         <article>
+                                <h2 class="heading sub">Our Current Repertoire</h2>
+                        </article>
+                        <article>
+                            <p>Below is a list containing our current repertoire. This is divided into A and B sections which we alternate between.</p>
+                        </article>
+                        <section class="col span_6">
+                            <h2>A repertoire</h2>
+                            <ul>
+                                <li>&#9835; Zing went the strings of my heart</li>
+                                <li>&#9835; Catch a falling star</li>
+                                <li>&#9835; I’m beginning to see the light</li>
+                                <li>&#9835; Can you feel the love tonight</li>
+                                <li>&#9835; Bye Bye Love</li>
+                                <li>&#9835; I Believe</li>
+                                <li>&#9835; Always look on the bright side</li>
+                                <li>&#9835; Breaking up is hard to do</li>
+                                <li>&#9835; I can’t give you anything but love</li>
+                                <li>&#9835; </li>
+                                <li>&#9835; </li>
+                                <li>&#9835; </li>
+                                <li>&#9835; </li>
+                                <li>&#9835; </li>
+                                <li>&#9835; </li>
+                                <li>&#9835; </li>
+                                <li>&#9835; </li>
+                                <li>&#9835; </li>
+                                <li>&#9835; </li>
+                                <li>&#9835; </li>
+                                <li>&#9835; </li>
+                                <li>&#9835; </li>
+                                <li>&#9835; </li>
+                                <li>&#9835; </li>
+                                <li>&#9835; </li>
+                            </ul>
+                        </section>
+                        <section>
+                            <h2>B repertoire</h2>
+
+                        </section>
+                    </div>
+                        
+                    </div>
+               <div class="back-top-area row gutters"><a href="#repertoire" class="back-to-top">&uarr; Back to top</a></div>
+              <footer>
+                        <div class="footer-wrap row gutters">
+                        <section class='footer-container'>
+                                <article class="col span_4">
+                                    <img src="img/logo-small.png" alt="Rivertones logo small"/>
+                                </article>
+                                <article class="footer-tag col span_4">
+                                    <p class="footer-text">&copy; 2013 Rivertones Harmony Chorus</p>
+                                    <p class="footer-text">Website designed and developed by <a href="https://twitter.com/KyleGriffiths92">Kyle Griffiths</a></p>
+                                </article>
+                                <article class="col span_4">
+                                    <a class="babs" href="http://www.singbarbershop.com/"><img src="img/babs-small.png" alt="British Association of Barbershop Singers logo"/></a>    
+                                </article>
+                        </section>
+                        </div>
+                </footer>
+        </div>
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+        <script src="js/respond.js"></script>
+        <script src="js/selectivizr-min.js"></script>
+                    
+
+    <!-- Script to highlight current links --> 
+    <script>
+    $('.site-nav li:contains("About")').addClass('highlight');
+    $(document).ready(function(){
+        var str=location.href.toLowerCase();
+        $(".site-nav li a").each(function() {
+            if (str.indexOf(this.href.toLowerCase()) > -1) {
+                 $("li.highlight").removeClass("highlight");
+                 $(this).parent().addClass("highlight");
+            }
+         });
+    })
+        $(document).ready(function(){
+        var str=location.href.toLowerCase();
+        $(".sub-nav li a").each(function() {
+            if (str.indexOf(this.href.toLowerCase()) > -1) {
+                 $("li.highlighted").removeClass("highlighted");
+                 $(this).parent().addClass("highlighted");
+            }
+         });
+         })
+
+function animateScroll(){
+            $(document).ready(function(){
+                $('a[href*=#]:not([href=#])').click(function() {
+                if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') 
+                || location.hostname == this.hostname) {
+
+            var target = $(this.hash);
+            target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+            if (target.length) {
+                $('html,body').animate({
+                 scrollTop: target.offset().top
+                }, 1000);
+                return false;
+            }
+        }
+    });
+    });
+}
+animateScroll();
+    </script>
+
+
+
+      
+    </body>
+
+</html>

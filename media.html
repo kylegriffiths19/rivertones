@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <title>The Rivertones Harmony chorus</title>
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/grid2.css">
+        <link rel="stylesheet" href="css/style.css">
+        <!--[if lt IE 9]>
+            <link rel="stylesheet" type="text/css" href="css/ie.css" /> 
+            <script src="js/html5shiv.js"></script>       
+        <![endif]-->
+       
+            
+        
+        <meta name="viewport" content="width=device-width">  
+
+
+
+
+        
+    </head>
+    
+    <body id="media">
+      
+        <div class="container row">
+
+           
+                <header class="site-header row">
+                    <a href="index.html"><img src="img/logo.png" alt="The Rivertones Logo" class="logo col span_4 clr"></a>
+                    <nav class="site-nav col span_8 clr">
+                        <ul>
+                            <li><a href="index.html">Home</a></li>
+                            <li><a href="about.html">About</a></li>
+                            <li><a href="media.html">Media</a></li>
+                            <li><a href="join-us.html">Join us</a></li>
+                            <li><a href="booking.html">Book us</a></li>
+                            <li><a href="contact.html">Contact</a></li>
+                        </ul>
+                    </nav>
+                </header>
+
+
+            
+
+                         
+
+                    <div class="content-wrap row gutters">
+                        <article class="heading">
+                            <h1>Media</h1>
+                        </article>
+                        <article>
+                            <p class="tagline row">Welcome to the media page. Here you can view a sample of our singing in the form of video and audio.</p>
+                        </article>
+
+                    <div class="sidebar col span_3">
+                        <section class="browse">
+                            <h2>Browse</h2>
+                            <ul>
+                                <li><a href="#video-section" class="media">Video</a></li>
+                                <li><a href="#audio-section" class="media">Audio</a></li>
+                            </ul>
+                        </section>
+                        
+                        <section class="links">
+                            <h2>Useful Links</h2>
+                            <p>Below is a list of useful links relating to barbershop singing:</p>
+                            <ul>
+                                <li><a href="http://www.singbarbershop.com">British Association of Barbershop singers</a></li>
+                                <li><a href="http://therivertones-org-uk.proboards.com">Rivertones Chorus member forum</a></li>
+                                <li><a href="http://launch.groups.yahoo.com/group/bbshop/">Yahoo Barbershop forum</a></li>
+                                <li><a href="http://barbershop.org/">Barbershop Harmony Society</a></li>
+                                <li><a href="http://www.musictheory.net/">Music theory website</a></li>        
+                            </ul>
+                        </section>
+                    </div>
+                      
+                        
+                    
+                        <section id="video-section" class="col span_7">
+                            <h2 class="heading sub">Video</h2>
+                            <h4 class="heading">Featured video 1 - Barbershop convention</h4>
+                            <div id="video-container">
+                            <iframe src="http://player.vimeo.com/video/70342378?title=0&amp;byline=0&amp;portrait=0&amp;color=ffb940" width="575" height="331" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+
+
+
+                            
+
+                            </div>
+                        </section>
+
+                        <section id="audio-section" class="audio col span_7">
+                            <h2 class="heading sub">Audio</h2>
+                            <article class="audio-track">
+                                <h4 class="heading">Featured audio -track 1</h4>
+                                <audio controls>
+                                <source src="media/track1.mp3">
+                                <source src="media/track1.ogg">
+                                </audio>
+                            </article>
+                            <article class="audio-track">
+                                <h4 class="heading">Featured audio -track 2</h4>
+                                <audio controls>
+                                <source src="media/track2.mp3">
+                                <source src="media/track2.ogg">
+                                </audio>
+                            </article>
+                        </section>
+                    </div>
+                 <div class="back-top-area row"><a href="#media" class="back-to-top">&uarr; Back to top</a></div>
+                <footer>
+                        <div class="footer-wrap row gutters">
+                        <section class='footer-container'>
+                                <article class="col span_4">
+                                    <img src="img/logo-small.png" alt="Rivertones logo small"/>
+                                </article>
+                                <article class="footer-tag col span_4">
+                                    <p class="footer-text">&copy; 2013 Rivertones Harmony Chorus</p>
+                                    <p class="footer-text">Website designed and developed by <a href="https://twitter.com/KyleGriffiths92">Kyle Griffiths</a></p>
+                                </article>
+                                <article class="col span_4">
+                                    <a class="babs" href="http://www.singbarbershop.com/"><img src="img/babs-small.png" alt="British Association of Barbershop Singers logo"/></a>    
+                                </article>
+                        </section>
+                        </div>
+                </footer>
+        </div>
+    
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+        <script src="js/respond.js"></script>
+        <!--[if !IE]><!-->
+            <script src="js/jquery.fitvids.js"></script>
+        <!--<![endif]-->
+        <script src="js/selectivizr-min.js"></script>
+
+        <script>
+         $(document).ready(function(){
+            // Target your .container, .wrapper, .post, etc.
+            $("#video-container").fitVids();
+            });
+        </script>
+
+                    
+
+
+        
+<!-- Script to highlight current links -->
+    <script>
+    function highlightLink(){
+            $('.site-nav li:contains("Home")').addClass('highlight');
+            $(document).ready(function(){
+                var str=location.href.toLowerCase();
+                $(".site-nav li a").each(function() {
+                    if (str.indexOf(this.href.toLowerCase()) > -1) {
+                         $("li.highlight").removeClass("highlight");
+                         $(this).parent().addClass("highlight");
+                    }
+                 });
+                 })
+        }
+
+function animateScroll(){
+            $(document).ready(function(){
+                $('a[href*=#]:not([href=#])').click(function() {
+                if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') 
+                || location.hostname == this.hostname) {
+
+            var target = $(this.hash);
+            target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+            if (target.length) {
+                $('html,body').animate({
+                 scrollTop: target.offset().top
+                }, 1000);
+                return false;
+            }
+        }
+    });
+    });
+}
+highlightLink();
+animateScroll();
+    </script>
+
+      
+    </body>
+
+</html>
